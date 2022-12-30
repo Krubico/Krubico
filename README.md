@@ -5,7 +5,7 @@
   Software Development,
   Robotics, 
   Tech Startups]
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Tech entrepreneurship 
 - 💞️ I’m looking to collaborate on Machine Learning, Cybersecurity and Software Development Projects.
 - 📫 You can reach me at **krubico.webflow.io**
 
