@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krubics</h1>
 <h3 align="center">Robotics Student & Junior Software Developer</h3>
 
-- 🌱 I’m currently learning **Web3 Apps, Robotic Process Automation, Web Development**
+- 🌱 I’m currently learning **LLMs and Web Design**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Cybersecurity, Software Development Projects**
 
